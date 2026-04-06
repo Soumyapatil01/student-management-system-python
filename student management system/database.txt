@@ -1,0 +1,11 @@
+J101,Anaya,21,cse,84
+J102,Ansh,21,cse,88
+J103,ankita,21,cse,93
+J104,anjana,21,cse,91
+J105,banu,21,cse,86
+J106,banashri,21,cse,78
+J107,caze,21,cse,79
+J108,dane,21,cse,70
+J109,evara,21,cse,98
+J110,ganga,21,cse,81
+
